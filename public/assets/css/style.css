@@ -1,0 +1,44 @@
+html {
+	font-size: 18px;
+}
+
+li {
+    margin-bottom: 2%;
+}
+
+p {
+	font-size: 17px;
+	margin-left: 2%;
+	margin-top: 2%;
+}
+
+#bodyinput {
+    width: 50%;
+}
+
+.jumbotron {
+	overflow: hidden;
+    background-size: 50%;
+    background-position: center;
+    background-image: url('../images/FNC.gif');
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 100%;
+}
+
+.panel-heading.row {
+	width: 100%;
+    margin-left: 0%;
+}
+
+.panel-primary {
+    height: 135px;
+}
+
+#savenote {
+    display: block;
+}
+
+@media screen and (max-width: 640px) {
+
+}
