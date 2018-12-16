@@ -12,4 +12,6 @@ You can try this application: https://jws-allnewsscrape.herokuapp.com
 5. you can delete the saved article: click on the delete article button
 
 
+## Here's a little video to show the functionality of this app.
+![Mongoose Scraper](./public/assets/images/MongooseScraper.mov?raw=true "Mongoose Scrapter Demo")
 Enjoy
